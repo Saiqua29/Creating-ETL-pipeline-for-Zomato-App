@@ -239,6 +239,8 @@ ORDER BY
 ## 🖼️ Visualizations
 
 ![Zomato India KPI Dashboard Screenshot](https://github.com/Saiqua29/Creating-ETL-pipeline-for-Zomato-App/blob/main/dashboard%20screenshot.png)
+
+---
 📸
 *Above: Power BI dashboard screenshot visualizing key metrics and city-level insights.*
 
